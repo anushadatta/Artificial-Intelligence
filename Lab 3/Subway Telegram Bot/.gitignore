@@ -1,0 +1,4 @@
+env
+telegram_api_key.py
+__pycache__
+.vscode
